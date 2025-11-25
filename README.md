@@ -1,0 +1,1 @@
+A simple Login-and-Signup-page built using HTML, CSS, and JavaScript, supporting basic arithmetic operations with a clean UI. Just open the index.html file in any browser and start using the Login-and-Signup-page.
